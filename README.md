@@ -91,7 +91,7 @@ The system generates three main types of output:
 
 | 1. example 1 | 2. example 2 |
 | :---: | :---: |
-| <img src="E:\vmukti\anpr_pipeline\AI_Traffic_Control\final_images\violation_20250812_103835_20.jpg" width="400" alt="Violation Snapshot"> | <img src="final_images\violation_20250812_103837_1.jpg" width="400" alt="Final OCR Result"> |
+| <img src="final_images\violation_20250812_103835_20.jpg" width="400" alt="Violation Snapshot"> | <img src="final_images\violation_20250812_103837_1.jpg" width="400" alt="Final OCR Result"> |
 | *System detects the violation (Wrong Way) and saves a rsult.* | *System detects the violation (Red light violation) and saves a rsult* |
 
 ### Sample Log Entry (`violations_log.json`)
