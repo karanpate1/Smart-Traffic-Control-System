@@ -1,0 +1,497 @@
+{
+  "truck_violation_20250812_103827_1.jpg": [
+    {
+      "bbox": [
+        73,
+        688,
+        361,
+        953
+      ],
+      "class": "heavy_vehicle_violation",
+      "timestamp": "2025-08-12 10:38:27.401",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/truck_violation_20250812_103827_1.jpg"
+    }
+  ],
+  "violation_20250812_103833_2.jpg": [
+    {
+      "bbox": [
+        959,
+        458,
+        1273,
+        748
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-38-33-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103833_2.jpg"
+    }
+  ],
+  "violation_20250812_103835_20.jpg": [
+    {
+      "bbox": [
+        1103,
+        631,
+        1404,
+        858
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-35-000",
+      "plate_text": "AH3S9SKO",
+      "plate_confidence": 0.74,
+      "final_image_path": "final_images/violation_20250812_103835_20.jpg"
+    }
+  ],
+  "violation_20250812_103836_26.jpg": [
+    {
+      "bbox": [
+        1108,
+        629,
+        1407,
+        877
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-36-000",
+      "plate_text": "AA4167PO",
+      "plate_confidence": 0.66,
+      "final_image_path": "final_images/violation_20250812_103836_26.jpg"
+    }
+  ],
+  "violation_20250812_103837_40.jpg": [
+    {
+      "bbox": [
+        1173,
+        618,
+        1465,
+        828
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-37-000",
+      "plate_text": "AL3490CK",
+      "plate_confidence": 0.84,
+      "final_image_path": "final_images/violation_20250812_103837_40.jpg"
+    }
+  ],
+  "violation_20250812_103837_1.jpg": [
+    {
+      "bbox": [
+        114,
+        416,
+        502,
+        717
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-38-37-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103837_1.jpg"
+    }
+  ],
+  "violation_20250812_103838_58.jpg": [
+    {
+      "bbox": [
+        1077,
+        642,
+        1398,
+        859
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-38-000",
+      "plate_text": "9250H",
+      "plate_confidence": 0.82,
+      "final_image_path": "final_images/violation_20250812_103838_58.jpg"
+    }
+  ],
+  "violation_20250812_103839_71.jpg": [
+    {
+      "bbox": [
+        1214,
+        598,
+        1406,
+        813
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-39-000",
+      "plate_text": "300-0500",
+      "plate_confidence": 0.91,
+      "final_image_path": "final_images/violation_20250812_103839_71.jpg"
+    }
+  ],
+  "violation_20250812_103840_75.jpg": [
+    {
+      "bbox": [
+        1126,
+        663,
+        1417,
+        889
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-40-000",
+      "plate_text": "AD2ZSEA",
+      "plate_confidence": 0.73,
+      "final_image_path": "final_images/violation_20250812_103840_75.jpg"
+    }
+  ],
+  "violation_20250812_103841_87.jpg": [
+    {
+      "bbox": [
+        1104,
+        487,
+        1306,
+        718
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-41-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103841_87.jpg"
+    }
+  ],
+  "violation_20250812_103842_104.jpg": [
+    {
+      "bbox": [
+        1136,
+        645,
+        1495,
+        869
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-42-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103842_104.jpg"
+    }
+  ],
+  "truck_violation_20250812_103842_6.jpg": [
+    {
+      "bbox": [
+        238,
+        690,
+        443,
+        953
+      ],
+      "class": "heavy_vehicle_violation",
+      "timestamp": "2025-08-12 10:38:42.971",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/truck_violation_20250812_103842_6.jpg"
+    }
+  ],
+  "violation_20250812_103843_4.jpg": [
+    {
+      "bbox": [
+        1011,
+        435,
+        1300,
+        731
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-38-43-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103843_4.jpg"
+    }
+  ],
+  "violation_20250812_103843_132.jpg": [
+    {
+      "bbox": [
+        1077,
+        652,
+        1384,
+        898
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-43-000",
+      "plate_text": "AL2726EB",
+      "plate_confidence": 0.86,
+      "final_image_path": "final_images/violation_20250812_103843_132.jpg"
+    }
+  ],
+  "violation_20250812_103844_149.jpg": [
+    {
+      "bbox": [
+        1110,
+        663,
+        1392,
+        902
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-44-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_103844_149.jpg"
+    }
+  ],
+  "violation_20250812_103845_164.jpg": [
+    {
+      "bbox": [
+        1080,
+        652,
+        1434,
+        906
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-38-45-000",
+      "plate_text": "AA4417OP",
+      "plate_confidence": 0.91,
+      "final_image_path": "final_images/violation_20250812_103845_164.jpg"
+    }
+  ],
+  "truck_violation_20250812_103856_12.jpg": [
+    {
+      "bbox": [
+        396,
+        694,
+        622,
+        953
+      ],
+      "class": "heavy_vehicle_violation",
+      "timestamp": "2025-08-12 10:38:56.410",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/truck_violation_20250812_103856_12.jpg"
+    }
+  ],
+  "truck_violation_20250812_104320_1.jpg": [
+    {
+      "bbox": [
+        73,
+        688,
+        361,
+        953
+      ],
+      "class": "heavy_vehicle_violation",
+      "timestamp": "2025-08-12 10:43:20.131",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/truck_violation_20250812_104320_1.jpg"
+    }
+  ],
+  "violation_20250812_104323_2.jpg": [
+    {
+      "bbox": [
+        959,
+        458,
+        1273,
+        748
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-43-23-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104323_2.jpg"
+    }
+  ],
+  "violation_20250812_104326_20.jpg": [
+    {
+      "bbox": [
+        1103,
+        631,
+        1404,
+        858
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-26-000",
+      "plate_text": "AH3S9SKO",
+      "plate_confidence": 0.74,
+      "final_image_path": "final_images/violation_20250812_104326_20.jpg"
+    }
+  ],
+  "violation_20250812_104327_26.jpg": [
+    {
+      "bbox": [
+        1108,
+        629,
+        1407,
+        877
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-27-000",
+      "plate_text": "AA4167PO",
+      "plate_confidence": 0.66,
+      "final_image_path": "final_images/violation_20250812_104327_26.jpg"
+    }
+  ],
+  "violation_20250812_104327_1.jpg": [
+    {
+      "bbox": [
+        114,
+        416,
+        502,
+        717
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-43-27-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104327_1.jpg"
+    }
+  ],
+  "violation_20250812_104328_40.jpg": [
+    {
+      "bbox": [
+        1173,
+        618,
+        1465,
+        828
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-28-000",
+      "plate_text": "AL3490CK",
+      "plate_confidence": 0.84,
+      "final_image_path": "final_images/violation_20250812_104328_40.jpg"
+    }
+  ],
+  "violation_20250812_104329_58.jpg": [
+    {
+      "bbox": [
+        1077,
+        642,
+        1398,
+        859
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-29-000",
+      "plate_text": "9250H",
+      "plate_confidence": 0.82,
+      "final_image_path": "final_images/violation_20250812_104329_58.jpg"
+    }
+  ],
+  "violation_20250812_104330_71.jpg": [
+    {
+      "bbox": [
+        1214,
+        598,
+        1406,
+        813
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-30-000",
+      "plate_text": "300-0500",
+      "plate_confidence": 0.91,
+      "final_image_path": "final_images/violation_20250812_104330_71.jpg"
+    }
+  ],
+  "violation_20250812_104335_75.jpg": [
+    {
+      "bbox": [
+        1126,
+        663,
+        1417,
+        889
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-35-000",
+      "plate_text": "AD2ZSEA",
+      "plate_confidence": 0.73,
+      "final_image_path": "final_images/violation_20250812_104335_75.jpg"
+    }
+  ],
+  "violation_20250812_104336_87.jpg": [
+    {
+      "bbox": [
+        1104,
+        487,
+        1306,
+        718
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-36-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104336_87.jpg"
+    }
+  ],
+  "violation_20250812_104337_104.jpg": [
+    {
+      "bbox": [
+        1136,
+        645,
+        1495,
+        869
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-37-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104337_104.jpg"
+    }
+  ],
+  "violation_20250812_104337_4.jpg": [
+    {
+      "bbox": [
+        1011,
+        435,
+        1300,
+        731
+      ],
+      "class": "red_light_violation",
+      "timestamp": "2025-08-12-10-43-37-000",
+      "plate_text": "N/A",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104337_4.jpg"
+    }
+  ],
+  "violation_20250812_104338_132.jpg": [
+    {
+      "bbox": [
+        1077,
+        652,
+        1384,
+        898
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-38-000",
+      "plate_text": "AL2726EB",
+      "plate_confidence": 0.86,
+      "final_image_path": "final_images/violation_20250812_104338_132.jpg"
+    }
+  ],
+  "violation_20250812_104339_149.jpg": [
+    {
+      "bbox": [
+        1110,
+        663,
+        1392,
+        902
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-39-000",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/violation_20250812_104339_149.jpg"
+    }
+  ],
+  "violation_20250812_104340_164.jpg": [
+    {
+      "bbox": [
+        1080,
+        652,
+        1434,
+        906
+      ],
+      "class": "wrong_direction",
+      "timestamp": "2025-08-12-10-43-40-000",
+      "plate_text": "AA4417OP",
+      "plate_confidence": 0.91,
+      "final_image_path": "final_images/violation_20250812_104340_164.jpg"
+    }
+  ],
+  "truck_violation_20250812_104341_6.jpg": [
+    {
+      "bbox": [
+        238,
+        690,
+        443,
+        953
+      ],
+      "class": "heavy_vehicle_violation",
+      "timestamp": "2025-08-12 10:43:41.020",
+      "plate_text": "",
+      "plate_confidence": 0.0,
+      "final_image_path": "final_images/truck_violation_20250812_104341_6.jpg"
+    }
+  ]
+}
